@@ -1,41 +1,25 @@
 
+<h1 align="left">Name </h1>
+<p align="left">Angel Grace B. Jordan </p>
 
-    <h1>About Me</h1>
+<h2 align="left">Education </h2>
+<p align="left">BS Information Technology - New Era University </p>
 
-    <h2>Name</h2>
-    <p>Angel Grace B. Jordan</p>
 
-    <h2>Education</h2>
-    <p>BS Information Technology - New Era University</p>
+<h2 align="left">Certifications </h2>
+<p align="left"></p>
 
-    <h2>Certifications</h2>
-    <ul>
-        <li>
-            SQL and Relational Databases 101 – 
-            <a href="https://example.com/your-certificate-link" target="_blank">
-                View Certificate
-            </a>
-        </li>
-    </ul>
+<h3 align="left">Skillsets </h3>
+<p  align="left">Web Development </p>
+<p  align="left">Github </p>
+<p  align="left">Problem Solving </p>
+<p  align="left">Database Management (SQL) </p>
+<p  align="left">Debugging </p>
 
-    <h2>Skillsets</h2>
-    <ul>
-        <li>Web Development</li>
-        <li>Git and GitHub</li>
-        <li>Database Management (SQL)</li>
-        <li>Problem Solving</li>
-        <li>Debugging</li>
-    </ul>
-
-    <h2>Programming Languages</h2>
-    <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>Java</li>
-        <li>SQL</li>
-        <li>C, C++</li>
-    </ul>
-
-    <h2>Contact</h2>
-    <p>Email: gellyaze07@gmail.com</p>
+<h4 align="left">Programming Languages </h4>
+<p  align="left">HTML </p>
+<p  align="left">Java </p>
+<p  align="left">CSS </p>
+<p  align="left">SQL </p>
+<p  align="left">C++ </p>
 
