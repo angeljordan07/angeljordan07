@@ -39,5 +39,3 @@
     <h2>Contact</h2>
     <p>Email: gellyaze07@gmail.com</p>
 
-</body>
-</html>
