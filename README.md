@@ -11,6 +11,9 @@
 
 <a href= "https://catalog-education.oracle.com/pls/certview/sharebadge?id=B166513F5D2B1D0D1616F629B87C48C584EDABA2DF62E2933CCA58BCDBAD9C86"> Oracle Cloud Infrastructure 2025 Foundations Associate </a>
 
+<a href= "https://catalog-education.oracle.com/ords/certview/sharebadge?id=54A587AFC2453E648EE115D93965F3ADED75827C7E5EA35086C0AAF0CCBF2FAC"> Oracle Data Platform 2025 Certified Foundations Associate </a>
+
+<a href= "https://catalog-education.oracle.com/ords/certview/sharebadge?id=D5EE50D21C18D729245072B9E3EC5CCA6F0A42D00CB69765ABEA63DEB67ECBAD"> Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate </a>
 
 <h3 align="left">Skillsets </h3>
 <p  align="left">Web Development </p>
