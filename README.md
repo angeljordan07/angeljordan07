@@ -7,6 +7,7 @@
 
 
 <h2 align="left">Certifications </h2>
+
 <a href= "https://courses.cognitiveclass.ai/certificates/d31596afa7cb472999d0c25f534a4c26"> SQL and Relational Databases 101 </a>
 
 <a href= "https://catalog-education.oracle.com/pls/certview/sharebadge?id=B166513F5D2B1D0D1616F629B87C48C584EDABA2DF62E2933CCA58BCDBAD9C86"> Oracle Cloud Infrastructure 2025 Foundations Associate </a>
